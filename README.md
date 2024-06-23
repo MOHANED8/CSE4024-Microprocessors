@@ -53,6 +53,3 @@ Read an analog voltage value from an ADC input connected to a potentiometer. The
    - As the analog voltage changes, the first LED dims and the second LED brightens proportionally.
 5. Refer to the video for the desired behavior.
 
----
-
-Feel free to reach out if you need any assistance or have any questions!
