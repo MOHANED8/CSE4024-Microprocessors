@@ -17,6 +17,9 @@ Create a three-bit binary counter using 3 LED lights. The counter will use 3 out
 3. Configure the blue user button to pause and resume the counter.
 4. Implement the counter logic to update the LEDs in binary format.
 
+**Video Reference:**
+[Three-bit Binary Counter](https://github.com/MOHANED8/CSE4024-Microprocessors/assets/79280405/c828764c-975d-4418-99c0-474825fb8740)
+
 ### Part ii: LED Pattern with Custom Delay
 Use the same LEDs and ports to create the LED pattern shown in the reference video. Ensure there is a 0.5-second delay between LED updates.
 
@@ -33,6 +36,9 @@ Use the same LEDs and ports to create the LED pattern shown in the reference vid
 1. Reuse the LEDs and output pins from Part i.
 2. Implement the custom delay function using a TIMER.
 3. Create the LED pattern as shown in the reference video, ensuring a 0.5-second delay between updates.
+
+**Video Reference:**
+[LED Pattern with Custom Delay](https://github.com/MOHANED8/CSE4024-Microprocessors/assets/79280405/c0925c79-6e9f-48a0-8660-03f6f767fab2)
 
 ## TASK 2: Analog Voltage Reading and LED Brightness Control
 
@@ -52,4 +58,7 @@ Read an analog voltage value from an ADC input connected to a potentiometer. The
    - One LED starts at full brightness and the other at zero brightness.
    - As the analog voltage changes, the first LED dims and the second LED brightens proportionally.
 5. Refer to the video for the desired behavior.
+
+**Video Reference:**
+[Analog Voltage Reading and LED Brightness Control](https://github.com/MOHANED8/CSE4024-Microprocessors/assets/79280405/d431cb3a-a333-421a-a729-3c1291402b9b)
 
